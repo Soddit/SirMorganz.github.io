@@ -303,6 +303,9 @@ li {
   left: 10%;
   color: #fff;
 }
+.icons:hover{
+  color: rgb(255, 255, 255);
+}
 
 .icons span:not(:last-child) {
   margin-right: 1rem;
